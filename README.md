@@ -61,3 +61,13 @@ Sales Executive, Laboratory Technician, and Research Scientist roles experienced
 
 ## Conclusion
 Overtime and job role appear to be major factors influencing employee attrition. Organizations can reduce turnover by improving work-life balance and addressing role-specific concerns.
+## Visualizations
+
+### Department vs Attrition
+![Department Attrition](images/department_attrition.png)
+
+### Overtime vs Attrition
+![Overtime Attrition](images/overtime_attrition.png)
+
+### Job Role vs Attrition
+![Job Role Attrition](images/jobrole_attrition.png)
