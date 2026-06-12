@@ -1,0 +1,63 @@
+## Dataset Information
+
+- Total Records: 1470
+- Total Features: 35
+- Attrition Rate: 16.12%
+
+## Project Structure
+
+Employee-Attrition-Analysis/
+│
+├── data/
+│   └── emp_attrition.csv
+│
+├── images/
+│   ├── attrition_count.png
+│   ├── department_attrition.png
+│   ├── overtime_attrition.png
+│   └── jobrole_attrition.png
+│
+├── notebook/
+│   └── Employee_Attrition.ipynb
+│
+└── README.md
+# Employee Attrition Analysis
+
+## Objective
+Analyze employee attrition patterns and identify factors influencing employee turnover.
+
+## Dataset
+IBM HR Employee Attrition Dataset
+
+- Rows: 1470
+- Columns: 35
+
+## Key Findings
+
+### Overall Attrition
+- Employees Stayed: 1233
+- Employees Left: 237
+- Attrition Rate: 16.12%
+
+### Department Analysis
+Research & Development had the highest number of employees and the highest attrition count.
+
+### Overtime Analysis
+Employees working overtime showed a significantly higher attrition rate compared to employees not working overtime.
+
+### Job Role Analysis
+Sales Executive, Laboratory Technician, and Research Scientist roles experienced the highest employee attrition.
+
+## Visualizations
+- Attrition Count
+- Department vs Attrition
+- Overtime vs Attrition
+- Job Role vs Attrition
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+
+## Conclusion
+Overtime and job role appear to be major factors influencing employee attrition. Organizations can reduce turnover by improving work-life balance and addressing role-specific concerns.
