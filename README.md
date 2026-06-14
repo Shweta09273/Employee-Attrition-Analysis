@@ -71,3 +71,21 @@ Overtime and job role appear to be major factors influencing employee attrition.
 
 ### Job Role vs Attrition
 ![Job Role Attrition](images/jobrole_attrition.png)
+## Model Performance
+
+Algorithm: Random Forest Classifier
+
+Accuracy: 87.07%
+
+### Top Important Features
+
+1. MonthlyIncome
+2. OverTime
+3. Age
+4. DailyRate
+5. TotalWorkingYears
+6. MonthlyRate
+7. EmployeeNumber
+8. HourlyRate
+9. DistanceFromHome
+10. YearsAtCompany
