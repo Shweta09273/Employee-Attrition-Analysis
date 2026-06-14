@@ -89,3 +89,29 @@ Accuracy: 87.07%
 8. HourlyRate
 9. DistanceFromHome
 10. YearsAtCompany
+## Project Structure
+
+Employee-Attrition-Analysis/
+│
+├── dashboard/
+├── data/
+├── images/
+├── notebook/
+│   ├── Employee_Attrition.ipynb
+│   └── attrition_model.py
+├── README.md
+└── .gitignore
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Git & Github
+## How to Run
+
+
+pip install pandas numpy matplotlib scikit-learn
+
+python notebook/attrition_model.py
